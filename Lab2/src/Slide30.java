@@ -14,6 +14,7 @@ public class Slide30 {
         int tongChuSo = tinhTongChuSo(n);
         System.out.println(" Tong cac chu so trong  " + n + " la " + tongChuSo);
     }
+   
 
     private static int tinhTongChuSo(int so) {
         int sum = 0;

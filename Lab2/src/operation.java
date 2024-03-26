@@ -18,6 +18,7 @@ public class operation {
         } else {
             System.out.println("khong the chia cho 0");
         }
+        sc.close();
         System.out.println("tong :" + tong);
         System.out.println("hieu :" + hieu);
         System.out.println("tich :" + tich);
