@@ -1,4 +1,4 @@
-package javaOOP.Lab2.src.people;
+package people;
 
 public class nhanvien extends person {
     public float luong;

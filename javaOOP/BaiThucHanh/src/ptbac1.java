@@ -1,3 +1,4 @@
+package BaiThucHanh.src;
 import java.util.Scanner;
 
 public class ptbac1 {

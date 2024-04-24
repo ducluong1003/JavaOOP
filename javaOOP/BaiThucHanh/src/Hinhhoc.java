@@ -1,4 +1,5 @@
-import java.util.Scanner;
+package BaiThucHanh.src;
+
 
 public class Hinhhoc {
     final public float Pi = 3.14f;

@@ -1,4 +1,4 @@
-package javaOOP.Lab2.src.people;
+package people;
 
 import java.util.Scanner;
 

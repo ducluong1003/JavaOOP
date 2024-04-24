@@ -1,4 +1,4 @@
-package  LuongNhanVien;
+package  BaiThucHanh.src.Luong;
 
 import java.util.Scanner;
 
@@ -21,7 +21,7 @@ public class NhanVienFULL extends NHANVIEN {
     }
 
     public void LoaiNhanVien(String LoaiNhanViec) {
-        this.LoaiNhanViec = LoaiNhanViec;
+        this.LoaiNhanVien = LoaiNhanViec;
     }
 
     public void TinhLuong() {

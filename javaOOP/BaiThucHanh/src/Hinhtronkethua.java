@@ -1,4 +1,6 @@
+package BaiThucHanh.src;
 import java.util.Scanner;
+
 
 public class Hinhtronkethua extends Hinhhoc {
     public float bankinh;

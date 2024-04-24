@@ -1,8 +1,5 @@
-package NHANVIEN;
-
-
-
-public class THONGBAO {
+package BaiThucHanh.src.Luong;
+public class ThongBao {
     public static void main(String[] args) {
         NhanVienFULL NV1 = new NhanVienFULL();
         NV1.NhanvienFullTime("Khanh", 7);
@@ -10,7 +7,7 @@ public class THONGBAO {
         NV1.LoaiNhanVien("SEP");
         NV1.TinhLuong();
         NV1.InTT();
-        NhanVienPart NV2 = new NhanVienPart();
+       part  NV2 = new part();
         NV2.NhanVienPartTime("Hai", 40);
         NV2.LoaiNhanVien("NHAN VIEN PART TIME");
         NV2.TinhLuong();

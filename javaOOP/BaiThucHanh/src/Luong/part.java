@@ -1,6 +1,6 @@
-package LuongNhanVien;
+package BaiThucHanh.src.Luong;
 
-public class NhanVienPart extends NhanVien {
+public class part extends NHANVIEN {
     public int Giolamviec;
 
     public void NhanVienPartTime(String Ten, int Giolamviec) {

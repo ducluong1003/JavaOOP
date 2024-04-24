@@ -1,4 +1,4 @@
-package LuongNhanVien;
+package BaiThucHanh.src.Luong;
 
 public class NHANVIEN {
     public String Ten;

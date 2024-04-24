@@ -1,4 +1,4 @@
-package javaOOP.Lab2.src.people;
+package people;
 
 public class MainClass {
     public static void main(String[] args) {
