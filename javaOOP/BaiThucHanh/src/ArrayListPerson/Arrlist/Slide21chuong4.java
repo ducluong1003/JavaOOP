@@ -20,7 +20,18 @@ public class Slide21chuong4 {
         System.out.println( " \n" +"phan tu vi tri index thu 1 la :  " + Index1);
         //Thay thế một phần tử tại chỉ số index bằng phần tử element
        arrayListString.set(1, "ABC");
-    
-
+       System.out.println("Cac phan tu co trong arrlist sau khi thay the la : ");
+        for( int i = 0 ;i< arrayListString.size(); i++)
+        {
+            System.out.println(arrayListString.get(i) + " \t");
+        }
+        // Loại bỏ phần tử tại vị trí có chỉ số index
+        
+        System.out.print("Cac phan tu co trong danh sach sau khi loai bo la : ");
+        arrayListString.remove(2);
+        for( int i = 0 ;i< arrayListString.size(); i++)
+        {
+            System.out.print(arrayListString.get(i) + " \t");
+        }   
     }
 }
