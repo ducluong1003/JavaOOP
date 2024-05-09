@@ -1,4 +1,4 @@
-package BaiThucHanh.src.ArrayListPerson.Arrlist;
+package BaiThucHanh.src.ArrayList;
 
 import java.util.ArrayList;
 
