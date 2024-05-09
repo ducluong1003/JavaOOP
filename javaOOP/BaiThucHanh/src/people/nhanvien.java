@@ -1,4 +1,4 @@
-package people;
+package BaiThucHanh.src. people;
 
 public class nhanvien extends person {
     public float luong;

@@ -1,4 +1,4 @@
-package people;
+package BaiThucHanh.src. people;
 
 public class MainClass {
     public static void main(String[] args) {

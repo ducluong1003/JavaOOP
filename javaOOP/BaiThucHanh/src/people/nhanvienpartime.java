@@ -1,4 +1,4 @@
-package people;
+package BaiThucHanh.src. people;
 
 import java.util.Scanner;
 

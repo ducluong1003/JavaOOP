@@ -1,7 +1,7 @@
 package BaiThucHanh.src.Luong;
 
 
-import java.security.PublicKey;
+
 
 public class configs {
     public static final int NHAN_VIEN_SEP = 1;
