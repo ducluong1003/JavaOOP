@@ -1,7 +1,7 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "javaOOP/Lab2/src",
-        "javaOOP"
+        "BaiThucHanh/src/Chuong5.java",
+        "LAB4/src"
     ]
 }
